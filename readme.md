@@ -1,3 +1,7 @@
+![UMAP of Alexander Latent Space](UMAP.png)
+
+
+
 ## ✍️ Authors
 
 **Edison Vázquez**  
