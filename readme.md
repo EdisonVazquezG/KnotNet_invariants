@@ -31,4 +31,5 @@ Instituto Tecnológico Autónomo de México (ITAM)
 
 ## 🧠 Equal Contribution
 
-All authors contributed equally to this work.
+All authors contributed equally to the conceptual development of this work.  
+**All code in this repository was developed by Edison Vázquez.**
