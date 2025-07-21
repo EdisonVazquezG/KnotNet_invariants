@@ -1,4 +1,4 @@
-![UMAP of Alexander Latent Space](UMAP.png)
+
 
 
 
